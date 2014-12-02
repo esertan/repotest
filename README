@@ -1,3 +1,5 @@
 This is the repository A
 Ihave changed the remote with command
 git remote origin path
+and now I pulled my changes here with
+git pull ../gitexe3/
